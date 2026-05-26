@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build/
+dist/
+node_modules/
+.env
+*.iml
+local.properties
+google-services.json
+android/app/google-services.json
